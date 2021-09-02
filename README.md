@@ -10,11 +10,17 @@ These designs are currently being tested in the Churchland Lab by Joao Couto and
 
 This holder can be fabricated in stainless steel and is currently (September 2020) being tested for imaging.
 
-The holes are designed to be treaded for 8-32 screws and 1mm post implants.
+The holes are designed to be treaded for 8-32 screws and 1mm tick post implants.
 
 ![picture](images/headbar_holder.png)
 
-### Post implant for imaging (12 mm)
+Files: 
+
+### Post implant for imaging (11 mm)
+
+The implant can be cut from a 1mm titanium sheet.
+
+![picture](images/imaging_post.png)
 
 
 
