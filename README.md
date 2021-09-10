@@ -10,17 +10,23 @@ These designs are currently being tested in the Churchland Lab by Joao Couto and
 
 This holder can be fabricated in stainless steel and is currently (September 2020) being tested for imaging.
 
-The holes are designed to be treaded for 8-32 screws and 1mm tick post implants.
+![picture](images/headbar_holder.png)
+
 
 Model: [headbar_holder.FCStd](models/headbar_holder.FCStd)
-3d:
+
+3d for visualization:
  - [holder main](stl/headbar_holder_main.stl)
  - [left clamp](stl/headbar_holder_clamp_left.stl)
  - [right clamp](stl/headbar_holder_clamp_right.stl)
 
-To manufacture use the [step](step/headbar_holder.step)
+To manufacture use the step files
+ - [holder main](step/headbar_holder_main.step)
+ - [left clamp](step/headbar_holder_clamp_left.step)
+ - [right clamp](step/headbar_holder_clamp_right.step)
 
-![picture](images/headbar_holder.png)
+The holes are designed to be treaded for 8-32 screws and the design is for 1mm tick post implants.
+
 
 Files: 
 
@@ -33,7 +39,7 @@ The implant can be cut from a 1mm titanium sheet.
 Model: [headbar.FCStd](models/headbar.FCStd)
 3d: [imaging headbar](stl/headbar_imaging.stl)
 
-To manufacture use the drawing in: [headbar.FCStd](models/headbar.FCStd)
+To manufacture use the drawing in: [11mm implant post](drawings/2p_headbar.pdf)
 
 
 #### Imaging ring
