@@ -46,7 +46,7 @@ To manufacture use the drawing in: [11mm implant post](drawings/2p_headbar.pdf)
 
 When implanting the post, we also center a ring on the window, this will interface with a light shielding sleeve that wraps around the objective.  
 
-Model for the ring: [shield](imaging_shield.FCStd) - this file will also have the sleeve in the future.
+Model for the ring: [shield](models/imaging_shield.FCStd) - this file will also have the sleeve in the future.
 
 To manufacture or visualize use the [stl file](stl/ring_imaging.stl). 
 
