@@ -8,7 +8,7 @@ These designs are currently being tested in the Churchland Lab by Joao Couto and
 
 ### Holder for imaging and electrophysiology
 
-This holder can be fabricated in stainless steel and is currently (September 2020) being tested for imaging.
+This holder can be fabricated in stainless steel and is currently (September 2021) being tested for imaging.
 
 ![picture](images/headbar_holder.png)
 
@@ -55,4 +55,4 @@ To manufacture or visualize use the [stl file](stl/ring_imaging.stl).
 
 Joao Couto - jpcouto@gmail.com
 
-Churchland lab - June 2020
+Churchland lab - June 2021
