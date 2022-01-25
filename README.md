@@ -27,6 +27,9 @@ To manufacture use the step files
 
 The holes are designed to be treaded for 8-32 screws and the design is for 1mm tick post implants.
 
+For behavior training one can use a cheaper holder - IBL rig compatible:
+ - [holder main](stl/behavior_holder_main.stl) [manufacture](step/behavior_holder_main.step)
+ - [right clamp](stl/behavior_holder_clamp.stl) [manufacture](step/behavior_holder_clamp.step)
 
 Files: 
 
@@ -38,6 +41,10 @@ The implant can be cut from a 1mm titanium sheet.
 
 Model: [headbar.FCStd](models/headbar.FCStd)
 3d: [imaging headbar](stl/headbar_imaging.stl)
+
+There are also versions with:
+   - [a smaller ring (8.6mm)](stl/headbar_imaging_8.6mm.stl).
+   - [for ephys/cortex-wide imaging](stl/headbar_ephys.stl).
 
 To manufacture use the drawing in: [11mm implant post](drawings/2p_headbar.pdf)
 
