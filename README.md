@@ -2,34 +2,36 @@
 
 This repository contains files for bars, holders and other 3d parts for imaging and electrophysiology.
 
-The designs were created in FreeCAD - an open source design software.
+The designs were created in FreeCAD - an open source design software.  
 
-These designs are currently being tested in the Churchland Lab by Joao Couto and Marsa Taheri.
+These designs are currently maintained by Joao Couto and used in the Churchland lab.
 
 ### Holder for imaging and electrophysiology
 
-This holder can be fabricated in stainless steel and is currently (September 2021) being tested for imaging.
+This holder can be fabricated in stainless steel and we have been using it for imaging and electrophysiology. Use the latest version for the mesoscope.
 
 ![picture](images/headbar_holder.png)
 
 
-Model: [headbar_holder.FCStd](models/headbar_holder.FCStd)
+Model: [headbar_holder.FCStd](models/headbar_holder_mesoscope.FCStd)
 
 3d for visualization:
- - [holder main](stl/headbar_holder_main.stl)
- - [left clamp](stl/headbar_holder_clamp_left.stl)
- - [right clamp](stl/headbar_holder_clamp_right.stl)
+ - [holder main](stl/mesoscope_headbar_holder_main.stl)
+ - [left clamp](stl/mesoscope_headbar_holder_clamp_left.stl)
+ - [right clamp](stl/mesoscope_headbar_holder_clamp_right.stl)
 
 To manufacture use the step files
- - [holder main](step/headbar_holder_main.step)
- - [left clamp](step/headbar_holder_clamp_left.step)
- - [right clamp](step/headbar_holder_clamp_right.step)
+ - [holder main](step/mesoscope_headbar_holder_main.step)
+ - [left clamp](step/mesoscope_headbar_holder_clamp_left.step)
+ - [right clamp](step/mesoscope_headbar_holder_clamp_right.step)
 
-The holes are designed to be treaded for 8-32 screws and the design is for 1mm tick post implants.
+The holes are designed to be treaded for 8-32 screws and the design is for 1mm tick post implants. If you want metric screws, thread for M4 should also work but hasn't been tested.
 
 For behavior training one can use a cheaper holder - IBL rig compatible:
  - [holder main](stl/behavior_holder_main.stl) [manufacture](step/behavior_holder_main.step)
  - [right clamp](stl/behavior_holder_clamp.stl) [manufacture](step/behavior_holder_clamp.step)
+ 
+The latter works but can be made better.
 
 Files: 
 
