@@ -12,6 +12,7 @@ This holder can be fabricated in stainless steel and we have been using it for i
 
 ![picture](images/headbar_holder.png)
 
+*Note:* Most these models were created with FreeCAD 0.19, this is the prefered version to edit. Editing in other versions might be difficult. Because of this limited editing abilities, I will move the designs to Autodesk Fusion.
 
 Model: [headbar_holder.FCStd](models/headbar_holder_mesoscope.FCStd)
 
